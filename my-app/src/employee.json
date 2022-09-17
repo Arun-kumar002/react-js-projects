@@ -1,0 +1,92 @@
+[
+    {
+        emp_id:1,
+        emp_name:'arun',
+        emp_salary:10000,
+        emp_designation:'junior s/w engineer',
+        emp_gender:'male',
+        emp_education:'BE',
+        emp_experience:{
+            previoue_exp:'1 year',
+            company:{
+                previous_comp:'qsp',
+                new_com:'tyss'
+            }
+        },
+        emp_img:'https://cdn.pixabay.com/photo/2017/01/14/10/56/people-1979261__340.jpg',
+        emp_skill:['js','python','node','express'],
+        emp_city:'tamilnadu'
+    },
+    {
+        emp_id:2,
+        emp_name:'vijay',
+        emp_salary:10000,
+        emp_designation:'junior s/w engineer',
+        emp_gender:'male',
+        emp_education:'MBA',
+        emp_experience:{
+            previoue_exp:'1 year',
+            company:{
+                previous_comp:'qsp',
+                new_com:'tyss'
+            }
+        },
+        emp_img:'https://cdn.pixabay.com/photo/2021/02/03/00/10/receptionists-5975962__340.jpg',
+        emp_skill:['js','python','node','express'],
+        emp_city:'bangalore'
+    },
+    {
+        emp_id:3,
+        emp_name:'harish',
+        emp_salary:10000,
+        emp_designation:'junior s/w engineer',
+        emp_gender:'male',
+        emp_education:'BE',
+        emp_experience:{
+            previoue_exp:'1 year',
+            company:{
+                previous_comp:'qsp',
+                new_com:'tyss'
+            }
+        },
+        emp_img:'https://cdn.pixabay.com/photo/2013/07/16/07/55/man-162951__340.jpg',
+        emp_skill:['js','python','node','express'],
+        emp_city:'bangalore'
+    },
+    {
+        emp_id:4,
+        emp_name:'pavan',
+        emp_salary:10000,
+        emp_designation:'junior s/w engineer',
+        emp_gender:'male',
+        emp_education:'BE',
+        emp_experience:{
+            previoue_exp:'1 year',
+            company:{
+                previous_comp:'qsp',
+                new_com:'tyss'
+            }
+        },
+        emp_img:'https://cdn.pixabay.com/photo/2017/05/19/12/38/entrepreneur-2326419__340.jpg',
+        emp_skill:['js','python','node','express'],
+        emp_city:'bangalore'
+    }, {
+        emp_id:5,
+        emp_name:'pooja',
+        emp_salary:10000,
+        emp_designation:'junior s/w engineer',
+        emp_gender:'female',
+        emp_education:'BE',
+        emp_experience:{
+            previoue_exp:'1 year',
+            company:{
+                previous_comp:'qsp',
+                new_com:'tyss'
+            }
+        },
+        emp_img:'https://cdn.pixabay.com/photo/2012/02/29/15/48/business-19156__340.jpg',
+        emp_skill:['js','python','node','express'],
+        emp_city:'bangalore'
+    }
+
+]

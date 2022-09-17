@@ -1,0 +1,23 @@
+[
+    {
+        "course_name":"mern stack",
+        "trainer":"shashi",
+        "duration":"3 months",
+        "photo":"https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400__340.png",
+        "languages":["js","nodejs","reactjs","html","css","tailwind"]
+    },
+    {
+        "course_name":"java fullstack",
+        "trainer":"dixith",
+        "duration":"4 months",
+        "photo":"https://cdn.pixabay.com/photo/2014/04/03/11/08/tea-311845__340.png",
+        "languages":["java","spring","hypernate","html","css","tailwind"]
+    },
+    {
+        "course_name":"python fullstack",
+        "trainer":"arun",
+        "duration":"4 months",
+        "photo":"https://cdn.pixabay.com/photo/2020/01/22/12/33/python-4785225__340.jpg",
+        "languages":["python","django","html","css","tailwind"]
+    }
+]

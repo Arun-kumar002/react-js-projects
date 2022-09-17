@@ -1,0 +1,18 @@
+[
+    {
+        "audio":"./audio(1).mp3",
+        "img":"https://cdn.pixabay.com/photo/2019/07/14/16/29/pen-4337524__340.jpg",
+        "desc":"hi im song1"
+    },
+    
+    {
+        "audio":"./audio(2).mp3",
+        "img":"https://cdn.pixabay.com/photo/2017/12/26/21/19/circle-3041437__340.jpg",
+        "desc":"hi im song2"
+    },
+    {
+        "audio":"./audio(3).mp3",
+        "img":"https://cdn.pixabay.com/photo/2017/12/26/21/19/circle-3041437__340.jpg",
+        "desc":"hi im song2"
+    }
+]
